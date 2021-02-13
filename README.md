@@ -1,6 +1,6 @@
 # ImageClassification
 
-IOS Application used to classify images.
+IOS Application.
 
 Used InceptionV3 model to predict the image.
 
